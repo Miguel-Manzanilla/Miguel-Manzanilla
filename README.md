@@ -10,7 +10,8 @@
      he tenido el privilegio de sumergirme en diferentes aspectos del mundo de la programación.<br><br>
      Mi trayectoria profesional se ha caracterizado por mi dedicación a enfrentar desafíos y buscar soluciones innovadoras. Me entusiasma trabajar en equipo y colaborar en proyectos que requieren creatividad y 
      precisión técnica.<br><br>
-     Si estás interesado en explorar algunos de mis trabajos, puedes encontrarlos en GitHub, donde tengo una variedad de proyectos en los que he trabajado. ¡Acompáñame en este emocionante viaje tecnológico! 🖥️
+     Si estás interesado en explorar algunos de mis trabajos, puedes encontrarlos aqui abajo en GitHub, donde tengo una variedad de proyectos en los que he trabajado. ¡Acompáñame en este emocionante viaje       
+     tecnológico! 🖥️
     <br><br>
   </p>
 </div>
